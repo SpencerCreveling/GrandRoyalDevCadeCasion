@@ -91,8 +91,8 @@ namespace DevcadeGame
 			_spriteBatch.Begin();
 			// TODO: Add your drawing code here
 			_spriteBatch.End();
-
 			base.Draw(gameTime);
+
 		}
 	}
 }
